@@ -1,2 +1,0 @@
-# judges.github.io
-website
