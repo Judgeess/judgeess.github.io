@@ -65,7 +65,6 @@ class TextScramble {
 const phrases = [
 'Judges Loading..,',
 'Judges Loaded!',
-'Willson Family Loaded!',
 'Haha!'];
 
 const el = document.querySelector('.text');
